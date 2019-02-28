@@ -3,7 +3,7 @@
 // Configuration parameters
 // ========================
 
-$allowed_extensions = array('jpeg', 'jpg', 'png', 'gif', 'pdf', 'txt'); // Set extensions allowed - whitelist
+$allowed_extensions = array('jpeg', 'jpg', 'png', 'gif', 'pdf', 'txt', 'csv'); // Set extensions allowed - whitelist
 $dest_directory = "/var/www/html/uploads"; //Set directory where the file needs to be uploaded - also, chmod correctly
 $title = "Upload service";
 
